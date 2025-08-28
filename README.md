@@ -1,7 +1,5 @@
 ## Hello, I’m Uriel Ferreira
 
-💼 Currently working as a Sales Consultant at Volnorte Peças e Serviços, specializing in the heavy truck sector, parts, and services.
-
 🎓 Student of Systems Analysis and Development (Cruzeiro do Sul Virtual), seeking to expand my knowledge in technology and software development.
 
 💡 Passionate about programming, automation, SaaS, React, TypeScript, and Git, with a focus on building practical and scalable solutions.
