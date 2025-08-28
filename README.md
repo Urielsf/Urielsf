@@ -1,13 +1,14 @@
-## Olá , Eu sou o Uriel Ferreira
-💼 Atualmente atuo como Consultor de Vendas na Volnorte Peças e Serviços, no setor de linha pesada de caminhões, peças e serviços.
+## Hello, I’m Uriel Ferreira
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul Virtual), em busca de expandir meus conhecimentos em tecnologia e desenvolvimento.
+💼 Currently working as a Sales Consultant at Volnorte Peças e Serviços, specializing in the heavy truck sector, parts, and services.
 
-💡 Interesso-me por programação, automações, SaaS, React, TypeScript e Git, com foco em criar soluções práticas e escaláveis.
+🎓 Student of Systems Analysis and Development (Cruzeiro do Sul Virtual), seeking to expand my knowledge in technology and software development.
 
-🚀 Estou em constante evolução, unindo minha experiência comercial com a área de tecnologia para desenvolver uma carreira sólida e versátil.
+💡 Passionate about programming, automation, SaaS, React, TypeScript, and Git, with a focus on building practical and scalable solutions.
 
-🤝 Acredito em aprendizado contínuo, colaboração e crescimento pessoal e profissional.
+🚀 I am in constant growth, combining my commercial experience with technology to develop a solid and versatile career.
+
+🤝 I believe in continuous learning, collaboration, and both personal and professional growth.
 <div align="center">
   <a href="https://github.com/Urielsf">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Urielsf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
